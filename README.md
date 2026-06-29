@@ -1,6 +1,6 @@
 # PLBORDER
 
-Creates a zero-width boundary polyline around a constant-width polyline.
+Creates a zero-width boundary polyline around a constant-width !=0 polyline.
 
 ## Features
 
